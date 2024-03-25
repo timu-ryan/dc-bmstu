@@ -1,4 +1,4 @@
-str = input()
+some_str = input()
 
-if str == 'привет' or str == 'здравствуйте':
+if some_str == 'привет' or some_str == 'здравствуйте':
   print('привет')
